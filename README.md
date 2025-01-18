@@ -48,4 +48,4 @@
 
 ### 🌐 Let's Connect!
 [![GitHub](https://img.shields.io/badge/GitHub-akki2000-000?style=for-the-badge&logo=github)](https://github.com/akki2000)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Akash%20Verma-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-linkedin-profile)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Akash%20Verma-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/at-akash-verma)  
